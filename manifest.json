@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Seguimiento de Gastos Personales",
+  "version": "1.0",
+  "description": "Aplicación para llevar un control de gastos personales",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
